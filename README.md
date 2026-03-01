@@ -1,4 +1,4 @@
-# GDG TASK - 1.Fronte-end - Kanban Task Management Application
+# GDG TASK - 1.Front-end - Kanban Task Management Application
 
 A production-ready single-page Kanban board application built with React, TypeScript, and TailwindCSS.
 
